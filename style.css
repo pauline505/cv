@@ -1,0 +1,27 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    color: darkslategray;
+    text-align: center;
+    margin-left:0;
+    margin-right:0;
+}
+h1	{
+	font-family: 'Courgette', cursive;
+}
+#photo{
+	width: 12%;
+	border-radius: 100%;
+	padding:20px;
+}
+h2{
+	background-color: darkslategray;
+	padding:20px;
+	color:white;
+}
+i {
+	color:white;
+}
+body{
+	width:50%;
+	margin:10px auto;
+}
